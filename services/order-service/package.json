@@ -50,7 +50,7 @@
     "jest": "^27.5.1",
     "jest-environment-node": "^27.4.1",
     "jest-watch-typeahead": "^1.1.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "nock": "^13.2.4",
     "nodemon": "^2.0.15",
         "sequelize-cli": "^6.4.1",
